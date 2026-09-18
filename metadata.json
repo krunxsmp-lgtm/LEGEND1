@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Goals",
+  "description": "Track personal fitness goals, log workouts, steps, weight, and analyze progress with interactive custom charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
